@@ -1,6 +1,6 @@
 # What is a state file?
 
-> **NOTE:** Please understand that a statefile is not your data, read this section carefully to avoid any accidental file deletion/overwriting.
+> **NOTE:** Please understand that a state-file is not your data, read this section carefully to avoid any accidental file deletion/overwriting.
 
 A state file is the main way to save your digital experimental setup, the filetype extension is `.sta`. Saving one of these files means saving the calibration, the markers you set, the frequency ranges and every other setting that fits your experiment. This way you can avoid having to set up every time you sit down with the VNA.
 
@@ -38,7 +38,7 @@ To recall states, first we must navigate to the folder containing the state file
 
 Then the VNA should load the file and you are ready to format your own state.
 
-> Here the VNA will not save what you change unless you do so manually, sutting down the device will void all changes to you work.
+> Here the VNA will not save what you change unless you do so manually, shutting down the device will void all changes to you work.
 
 To save your state:
 
@@ -60,4 +60,4 @@ To save your state:
 
 &rarr; press **Done** and your file is saved.
 
-When returning to the device you can recall the file to continue from the last savepoint.
+When returning to the device you can recall the file to continue from the last save point.

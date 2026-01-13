@@ -1,18 +1,18 @@
 # Saving data files on external USB
 
-The main apeal of the VNA is capturing data for your projects. So this guide wil focus on saving to an external USB as this is the easiest way of getting data from device to device.
+The main appeal of the VNA is capturing data for your projects. So this guide will focus on saving to an external USB as this is the easiest way of getting data from device to device.
 
-The Ascociated USB contains a **user guide** that is handy for exploring the features of the FieldFox.
+The Associated USB contains a **user guide** that is handy for exploring the features of the FieldFox.
 
 > **Notice:** the guide is for N99xxA, meaning that not everything mentioned in the PDF is applicable to our device, the **FieldFox N9951A**.
 
-If anything is unclear please refer to the user guide or the offical documentation.
+If anything is unclear please refer to the user guide or the official documentation.
 
 ## CSV data to USB
 
 > **! Do not use two storage USB devices simultaniusly!** If you wish to transfer files from one USB to another, please do so on your own PC.
 
-CSV (**C**omma-**S**eperated **V**alues) is an easy way of saving and reviewing data, so for the most part this is the recomended file type to use.
+CSV (**C**omma-**S**eperated **V**alues) is an easy way of saving and reviewing data, so for the most part this is the recommended file type to use.
 
 When you are ready to save your data file:
 
@@ -36,7 +36,7 @@ When you are ready to save your data file:
 
 &rarr; Press **Done** and the file is saved
 
-&rarr; The USB can now be removed and your file can be transfered
+&rarr; The USB can now be removed and your file can be transferred
 
 ### Copying or moving files
 
